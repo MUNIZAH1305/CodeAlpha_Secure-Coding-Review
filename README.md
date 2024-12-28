@@ -1,1 +1,4 @@
 # CodeAlpha_Secure-Coding-Review
+Secure Coding Review is a systematic approach to identifying vulnerabilities and ensuring robust security in software applications. This repository provides guidelines, checklists, tools, and best practices to review code for potential risks, such as injection flaws, broken authentication, insecure data storage, and more. Whether you are a developer, security engineer, or auditor, these resources are designed to help you implement secure coding principles, comply with industry standards, and safeguard applications against evolving threats. Contributions and suggestions are welcome to make this resource comprehensive and effective.
+# EXPLANATION OF SECURE CODING REVIEW 
+![image](https://github.com/user-attachments/assets/b2f990ec-1447-4768-87f1-a4492c814b2a)
